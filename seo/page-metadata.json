@@ -1,0 +1,36 @@
+{
+  "canonical_origin": "https://injera.network",
+  "pages": [
+    {
+      "path": "/",
+      "title": "InjeraDAO | Find Injera. Break Bread. Build Together.",
+      "description": "Discover injera, Ethiopian and Eritrean food, and a community of builders connecting across East Africa and beyond."
+    },
+    {
+      "path": "/about",
+      "title": "About InjeraDAO | A Community Around Injera",
+      "description": "Meet InjeraDAO, a food-first community connecting builders through injera and Ethiopian and Eritrean culture."
+    },
+    {
+      "path": "/learn/what-is-injera",
+      "title": "What Is Injera? Ethiopian and Eritrean Flatbread Guide",
+      "description": "Learn what injera is, its teff and fermentation traditions, how it tastes, how to eat it and where to find it."
+    },
+    {
+      "path": "/learn/ethiopian-eritrean-food",
+      "title": "Ethiopian and Eritrean Food: Beginner's Guide | InjeraDAO",
+      "description": "Discover injera and classic dishes including shiro, misir wat, gomen and zigni, with helpful dining tips."
+    },
+    {
+      "path": "/community/gatherings",
+      "title": "InjeraDAO Gatherings | Break Bread, Build Together",
+      "description": "Meet builders and food lovers through shared injera meals and culture-first gatherings."
+    },
+    {
+      "path": "/faq",
+      "title": "InjeraDAO FAQ | Injera, Community and Gatherings",
+      "description": "Answers about InjeraDAO, what injera is, who can join, what DAO means and how to get involved."
+    }
+  ],
+  "note": "Route paths are editorial targets. Only emit URLs in sitemap/schema once frontend routes exist and return HTTP 200."
+}
