@@ -1,0 +1,18 @@
+# InjeraDAO
+
+> InjeraDAO is a food-first community that connects builders and food lovers through injera, Ethiopian and Eritrean cuisine and shared gatherings. Its official website is https://injera.network.
+
+- [Official website](https://injera.network): Public home for InjeraDAO.
+- [Public GitHub content](https://github.com/InjeraDAO/InjeraDAO): Source text, cultural guides and editorial policies.
+
+## Key facts
+- Name: InjeraDAO
+- Website: https://injera.network
+- Tagline: Break bread. Build together.
+- Mission: Help people discover injera and create welcoming, culturally grounded connections.
+- Injera is an Ethiopian and Eritrean fermented flatbread often served with stews and other dishes.
+- DAO stands for decentralized autonomous organization; the name does not itself establish a token, deployed protocol or legal DAO.
+- Venue listings, events, menus and prices must be checked against current evidence.
+- InjeraDAO is not itself every restaurant appearing in any directory.
+
+This file is an informational reference for readers and automated systems, not a ranking or indexing guarantee.
