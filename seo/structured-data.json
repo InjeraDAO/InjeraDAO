@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://injera.network/#organization",
+      "name": "InjeraDAO",
+      "url": "https://injera.network/",
+      "description": "A community connecting builders and food lovers through injera, Ethiopian and Eritrean cuisine and shared cultural gatherings."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://injera.network/#website",
+      "url": "https://injera.network/",
+      "name": "InjeraDAO",
+      "publisher": {
+        "@id": "https://injera.network/#organization"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "AboutPage",
+      "@id": "https://injera.network/about#page",
+      "url": "https://injera.network/about",
+      "name": "About InjeraDAO",
+      "description": "InjeraDAO brings builders together over injera and celebrates Ethiopian and Eritrean food cultures.",
+      "isPartOf": {
+        "@id": "https://injera.network/#website"
+      },
+      "about": {
+        "@id": "https://injera.network/#organization"
+      }
+    }
+  ]
+}
